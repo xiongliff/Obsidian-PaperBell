@@ -86,6 +86,13 @@
 - 修复了一些已知问题 📅 2024-05-13
 
 <a id='changelog-0.1.0'></a>
+## [4.0.1](https://github.com/PaperBell-Org/Obsidian-PaperBell/compare/v4.0.0...v4.0.1) (2025-02-04)
+
+
+### Bug Fixes
+
+* **project:** :arrow_up: Upgrade paperbell and homepage plugins ([a5aebea](https://github.com/PaperBell-Org/Obsidian-PaperBell/commit/a5aebeadcad1930ebf4b4e2a8e8e280702ea3c8f))
+
 ## [4.0.0](https://github.com/PaperBell-Org/Obsidian-PaperBell/compare/v3.1.2...v4.0.0) (2025-02-04)
 
 
