@@ -1,19 +1,26 @@
-<div align="center"><img src="https://firebasestorage.googleapis.com/v0/b/swimmio.appspot.com/o/repositories%2FZ2l0aHViJTNBJTNBUGFwZXJCZWxsJTNBJTNBU29uZ3NoR2Vv%2Fec47d268-80c8-4df5-bf62-1c37a2f43a3b.gif?alt=media&token=bb7fe1a8-5a44-4364-9032-fe20a563bad4" style="width:'100%'" alt="PaperBell"/></div>
+# `PaperBell`: Research, to be connected
 
-`PaperBell`: Research, to be connected.
+![主页示意图](https://songshgeo-picgo-1302043007.cos.ap-beijing.myqcloud.com/uPic/Pasted%20image%2020250204135426.png)
+
+👋 `PaperBell` 是使用 `Obsidian` 管理你学术生涯的终极方案。
 
 ## 核心功能
 
-`PaperBell` 提供以下核心功能：
-
-- [管理科研项目](https://paperbell.songshgeo.com/Outputs/%E4%BD%BF%E7%94%A8%E6%96%B9%E6%B3%95/%E7%AE%A1%E7%90%86%E7%A7%91%E7%A0%94%E9%A1%B9%E7%9B%AE)
-- [日常记录](https://paperbell.songshgeo.com/Outputs/%E4%BD%BF%E7%94%A8%E6%96%B9%E6%B3%95/%E6%97%A5%E5%B8%B8%E8%AE%B0%E5%BD%95)
-- [文献阅读笔记](https://paperbell.songshgeo.com/Outputs/%E4%BD%BF%E7%94%A8%E6%96%B9%E6%B3%95/%E6%96%87%E7%8C%AE%E9%98%85%E8%AF%BB%E7%AC%94%E8%AE%B0)
-- [撰写输出笔记](https://paperbell.songshgeo.com/Outputs/%E4%BD%BF%E7%94%A8%E6%96%B9%E6%B3%95/%E6%92%B0%E5%86%99%E8%BE%93%E5%87%BA%E7%AC%94%E8%AE%B0)
-- [导出学术文档](https://paperbell.songshgeo.com/Outputs/%E4%BD%BF%E7%94%A8%E6%96%B9%E6%B3%95/%E5%AF%BC%E5%87%BA%E5%AD%A6%E6%9C%AF%E6%96%87%E6%A1%A3)
+您可以通过[文档](https://paperbell.songshgeo.com) 或者我在 B 站上录制的[介绍视频](https://space.bilibili.com/390967345/channel/collectiondetail?sid=3005906) （视频更新很不及时）了解 `PaperBell` 提供的核心功能。
 
 ## 社区支持
 
 我们为 `PaperBell` 项目创建了一个微信交流社群，欢迎交流任何关于学术生活的感想。用户可关注我的公众号【隅地】发送关键字 `Obsidian` 或 `PaperBell` 获取最新群聊二维码。
 
-你也可以通过 [GitHub issue](https://github.com/SongshGeo/PaperBell/issues) 反馈问题，或者[通过邮箱联系我们](mailto:PaperBell@songshgeo.com)。
+![follow_paperbell](https://songshgeo-picgo-1302043007.cos.ap-beijing.myqcloud.com/uPic/follow_paperbell.jpeg)
+
+你也可以通过 [GitHub issue](https://github.com/PaperBell-Org/Obsidian-PaperBell/issues) 反馈问题，或者[通过邮箱联系我们](mailto:PaperBell@songshgeo.com)。
+
+## 致谢 & 许可
+
+本示例库的 UI 界面参考了以下出色的开源项目，欢迎给他们点个 star 或买杯咖啡：
+
+- [AnuPpuccin](https://github.com/AnubisNekhet/AnuPpuccin)：非常棒的主题！欢迎 [Buy her a coffee](https://www.buymeacoffee.com/anubisnekhet)！
+- [RainBell](https://github.com/RainBell129/Obsidian-Homepage)：最早启发 `PaperBell` 项目的示例库！
+
+本项目遵循 [MIT 许可](LICENSE)，允许**非商业用途**的复制、修改、分发。但本项目配套的[专属插件](https://github.com/SongshGeo/Obsidian-PaperBell-Plugin)不属于本许可。
