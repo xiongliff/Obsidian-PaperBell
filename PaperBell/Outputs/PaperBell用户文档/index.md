@@ -42,4 +42,4 @@ title: PaperBell
 
 我们为`PaperBell`项目创建了一个微信交流社群，欢迎交流任何关于学术生活的感想。用户可关注我的公众号【隅地】发送关键字 `Obsidian` 或 `PaperBell` 获取最新群聊二维码。
 
-你也可以通过[GitHub issue](https://github.com/SongshGeo/PaperBell/issues)反馈问题，或者[通过邮箱联系我们](mailto:PaperBell@songshgeo.com)。
+你也可以通过[GitHub issue](https://github.com/PaperBell-Org/Obsidian-PaperBell/issues)反馈问题，或者[通过邮箱联系我们](mailto:PaperBell@songshgeo.com)。
