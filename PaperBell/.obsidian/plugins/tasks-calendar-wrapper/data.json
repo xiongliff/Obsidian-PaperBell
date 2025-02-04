@@ -1,4 +1,5 @@
 {
+  "openViewOnStartup": false,
   "filterEmpty": true,
   "excludePaths": [],
   "includePaths": [],
@@ -38,7 +39,7 @@
   "counterBehavior": "Filter",
   "useQuickEntry": false,
   "entryPosition": "top",
-  "useYearHeader": false,
+  "useYearHeader": true,
   "useRelative": true,
   "useRecurrence": true,
   "usePriority": true,
@@ -55,5 +56,6 @@
   ],
   "defaultTodayFocus": false,
   "defaultFilters": "todoFilter",
-  "useBuiltinStyle": false
+  "useBuiltinStyle": false,
+  "convert24HourTimePrefix": false
 }

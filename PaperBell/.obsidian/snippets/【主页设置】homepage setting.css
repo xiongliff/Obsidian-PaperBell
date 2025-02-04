@@ -215,10 +215,12 @@ a, .markdown-preview-view .internal-link {
   display: flex;
   width: 100%;
   display: block;
-  background-color: #BBD5E9 !important ;
+  background-color: #4C7FA9 !important ;
   justify-content: center;
   align-items: center;
   text-align: center;
+  color: white !important;  /* 设置为白色 */
+  text-decoration: none;    /* 可选：去掉默认的下划线 */
 }
 
 
@@ -294,7 +296,7 @@ a, .markdown-preview-view .internal-link {
 
 
 .myhome ul ul li:nth-child(even) {
-  background-color:#F8B494  !important;
+  background-color:#4C7FA9  !important;
 }
 
 .myhome ul>li:hover {
@@ -755,3 +757,17 @@ img[alt$="inlR"] {
   text-align: center;
   font-size: 0.85rem;
 }
+/* Hyperlinks in reading mode (preview) should use the theme color */
+.workspace-leaf-content[data-mode="preview"]
+.markdown-preview-view a {
+    color: inherit; /* Use the default theme color */
+    text-decoration: none; /* Optionally remove underline */
+}
+
+/* Change hyperlink color to white when hovered */
+.workspace-leaf-content[data-mode="preview"]
+.markdown-preview-view a:hover {
+    color: white !important; /* Change to white on hover */
+    text-decoration: underline; /* Optionally underline on hover */
+}
+
