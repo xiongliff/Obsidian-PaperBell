@@ -86,6 +86,22 @@
 - 修复了一些已知问题 📅 2024-05-13
 
 <a id='changelog-0.1.0'></a>
+## [4.0.0](https://github.com/PaperBell-Org/Obsidian-PaperBell/compare/v3.1.2...v4.0.0) (2025-02-04)
+
+
+### ⚠ BREAKING CHANGES
+
+* **project:** move PaperBell to our GitHub organization now!
+
+### Bug Fixes
+
+* **feature:** :bug: Fixed term and institute template ([65116ba](https://github.com/PaperBell-Org/Obsidian-PaperBell/commit/65116ba6ab222c72be8efa6e52604023e6ccf1da))
+
+
+### Documentation
+
+* **project:** :tada: redirect all dead repo links to our organization on GitHub ([ae119d4](https://github.com/PaperBell-Org/Obsidian-PaperBell/commit/ae119d416a4421a8dc995522c757466e3e8a96ee))
+
 ## [3.1.2](https://github.com/SongshGeo/Obsidian-PaperBell/compare/v3.1.1...v3.1.2) (2025-01-22)
 
 
