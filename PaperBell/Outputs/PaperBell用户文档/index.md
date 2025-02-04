@@ -30,6 +30,7 @@ title: PaperBell
 5. 参照以下核心功能介绍文档，使用 `PaperBell` 管理你的学术生活：
    - [[管理科研项目]]
    - [[日常记录]]
+   - [[追踪学者和组织]]
    - [[文献阅读笔记]]
    - [[撰写输出笔记]]
    - [[导出学术文档]]
@@ -41,5 +42,7 @@ title: PaperBell
 ## 社区支持
 
 我们为`PaperBell`项目创建了一个微信交流社群，欢迎交流任何关于学术生活的感想。用户可关注我的公众号【隅地】发送关键字 `Obsidian` 或 `PaperBell` 获取最新群聊二维码。
+
+![follow_paperbell](https://songshgeo-picgo-1302043007.cos.ap-beijing.myqcloud.com/uPic/follow_paperbell.jpeg)
 
 你也可以通过[GitHub issue](https://github.com/PaperBell-Org/Obsidian-PaperBell/issues)反馈问题，或者[通过邮箱联系我们](mailto:PaperBell@songshgeo.com)。

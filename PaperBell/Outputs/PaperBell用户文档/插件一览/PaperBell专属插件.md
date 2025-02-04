@@ -33,4 +33,6 @@ title: "PaperBell 专属插件"
 > [!note] 核心理念
 > `PaperBell` 倡导的工作流免费分享，但对工作流的部分自动化处理，尤其是通过专属插件才能实现的功能，会是付费版本专属的。
 
-为鼓励更多用户参与使用和参与内测，专属插件目前不收取费用。请在小红书搜索 @PaperBell 或搜索[宋爽](https://songshgeo.com/) 的个人公众号【隅地】获取加入我们社区[微信群](https://t.me/PaperBell)，获取内测资格。我们会根据内测用户的参与度，提供从短期到永久不等的专属插件 Pro 版本激活码。
+为鼓励更多用户参与使用和参与内测，专属插件目前不收取费用。请在小红书搜索 @PaperBell_ 或搜索[宋爽](https://songshgeo.com/) 的个人公众号【隅地】获取加入我们社区微信群，获取内测资格。我们会根据内测用户的参与度，提供从短期到永久不等的专属插件 Pro 版本激活码。
+
+![follow_paperbell](https://songshgeo-picgo-1302043007.cos.ap-beijing.myqcloud.com/uPic/follow_paperbell.jpeg)
