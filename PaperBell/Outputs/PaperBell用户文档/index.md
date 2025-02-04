@@ -17,7 +17,7 @@ longform:
 title: PaperBell
 ---
 
-<div align="center"><img src="https://firebasestorage.googleapis.com/v0/b/swimmio.appspot.com/o/repositories%2FZ2l0aHViJTNBJTNBUGFwZXJCZWxsJTNBJTNBU29uZ3NoR2Vv%2Fec47d268-80c8-4df5-bf62-1c37a2f43a3b.gif?alt=media&token=bb7fe1a8-5a44-4364-9032-fe20a563bad4" style="width:'100%'" alt="PaperBell"/></div>
+![主页示意图](https://songshgeo-picgo-1302043007.cos.ap-beijing.myqcloud.com/uPic/Pasted%20image%2020250204135426.png)
 
 `PaperBell`: Research, to be connected.
 

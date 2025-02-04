@@ -1,6 +1,6 @@
 # `PaperBell`: Research, to be connected
 
-![主页示意图](https://songshgeo-picgo-1302043007.cos.ap-beijing.myqcloud.com/uPic/Pasted%20image%2020250204140356.png)
+![主页示意图](https://songshgeo-picgo-1302043007.cos.ap-beijing.myqcloud.com/uPic/Pasted%20image%2020250204135426.png)
 
 👋 `PaperBell` 是使用 `Obsidian` 管理你学术生涯的终极方案。
 
