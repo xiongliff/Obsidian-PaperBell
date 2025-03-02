@@ -86,6 +86,13 @@
 - 修复了一些已知问题 📅 2024-05-13
 
 <a id='changelog-0.1.0'></a>
+## [4.0.2](https://github.com/PaperBell-Org/Obsidian-PaperBell/compare/v4.0.1...v4.0.2) (2025-03-02)
+
+
+### Bug Fixes
+
+* typo for QuickAdd Button ([5de35a0](https://github.com/PaperBell-Org/Obsidian-PaperBell/commit/5de35a08ed2b4065dbf74f3f7a4849209fdea89c))
+
 ## [4.0.1](https://github.com/PaperBell-Org/Obsidian-PaperBell/compare/v4.0.0...v4.0.1) (2025-02-04)
 
 
