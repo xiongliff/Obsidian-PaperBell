@@ -86,6 +86,23 @@
 - 修复了一些已知问题 📅 2024-05-13
 
 <a id='changelog-0.1.0'></a>
+## [4.1.0](https://github.com/PaperBell-Org/Obsidian-PaperBell/compare/v4.0.2...v4.1.0) (2025-04-01)
+
+
+### Features
+
+* **feature:** :sparkles: update PaperBell using special plugin, make all plugins up-to-date ([b7d39d3](https://github.com/PaperBell-Org/Obsidian-PaperBell/commit/b7d39d36aec2363ac3c2fe0dc78e737773a46a0e))
+
+
+### Bug Fixes
+
+* **project:** :bug: Projects plugin now can create note ([1343e6f](https://github.com/PaperBell-Org/Obsidian-PaperBell/commit/1343e6f449012630e4e00287d5f37dbfce3404e2))
+
+
+### Performance Improvements
+
+* **feature:** :zap: By default, do not activate pandoc-crossref ([c8b85bc](https://github.com/PaperBell-Org/Obsidian-PaperBell/commit/c8b85bc90b84ec22924562a62d1469e3040b35e6))
+
 ## [4.0.2](https://github.com/PaperBell-Org/Obsidian-PaperBell/compare/v4.0.1...v4.0.2) (2025-03-02)
 
 
