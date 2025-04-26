@@ -86,6 +86,13 @@
 - 修复了一些已知问题 📅 2024-05-13
 
 <a id='changelog-0.1.0'></a>
+## [4.1.1](https://github.com/PaperBell-Org/Obsidian-PaperBell/compare/v4.1.0...v4.1.1) (2025-04-26)
+
+
+### Bug Fixes
+
+* **feature:** :bug: Fixed ZotLit templator rending bug ([3714123](https://github.com/PaperBell-Org/Obsidian-PaperBell/commit/371412377ccdf9f9e943359ba0611ef3e6059b59))
+
 ## [4.1.0](https://github.com/PaperBell-Org/Obsidian-PaperBell/compare/v4.0.2...v4.1.0) (2025-04-01)
 
 
