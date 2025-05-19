@@ -21,3 +21,4 @@ PaperBell/.gitignore
 PaperBell/.git
 PaperBell/.update_backup
 PaperBell/.obsidian/plugins/obsidian42-brat
+.DS_Store
