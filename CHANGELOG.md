@@ -86,6 +86,13 @@
 - 修复了一些已知问题 📅 2024-05-13
 
 <a id='changelog-0.1.0'></a>
+## [4.2.0](https://github.com/PaperBell-Org/Obsidian-PaperBell/compare/v4.1.1...v4.2.0) (2025-06-10)
+
+
+### Features
+
+* **feature:** :lipstick: Now users can set ZotLit import template colors in paperbell plugin ([b855824](https://github.com/PaperBell-Org/Obsidian-PaperBell/commit/b855824460171ec5d838ea58f019de5e5c733ac7))
+
 ## [4.1.1](https://github.com/PaperBell-Org/Obsidian-PaperBell/compare/v4.1.0...v4.1.1) (2025-04-26)
 
 
