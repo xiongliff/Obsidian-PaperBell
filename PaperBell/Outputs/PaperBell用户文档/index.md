@@ -14,8 +14,11 @@ longform:
     - 追踪学者和组织
   ignoredFiles:
     - PaperBell用户手册
-title: PaperBell
+title: PaperBell 用户文档
 ---
+
+> [!note] 🌱 您正在阅读用户文档
+> 如果你还不知道 PaperBell 是什么，可以先[点击这里跳转至 PaperBell 项目主页](https://paperbell.cn)，看看核心功能和最新动态。
 
 ![主页示意图](https://songshgeo-picgo-1302043007.cos.ap-beijing.myqcloud.com/uPic/Pasted%20image%2020250204135426.png)
 

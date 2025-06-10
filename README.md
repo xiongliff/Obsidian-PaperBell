@@ -6,6 +6,8 @@
 
 ## 核心功能
 
+我们的主页全新上线啦，欢迎访问 [paperbell.cn](https://paperbell.cn) 查看本示例库的核心功能和最新动态！
+
 您可以通过[文档](https://paperbell.songshgeo.com) 或者我在 B 站上录制的[介绍视频](https://space.bilibili.com/390967345/channel/collectiondetail?sid=3005906) （视频更新很不及时）了解 `PaperBell` 提供的核心功能。
 
 ## 社区支持
